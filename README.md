@@ -49,8 +49,6 @@ On the [latest release](https://github.com/mosasomo/PinConsole/releases/latest) 
 | Linux, most PCs | `PinConsole-Setup-Linux-x64.zip` |
 | Linux, ARM (e.g. Raspberry Pi) | `PinConsole-Setup-Linux-arm64.zip` |
 
-> The other files on the release page (`PinConsole.exe`, `PinConsole-linux-x64`, `PinConsole-macos-*.zip`…) are used by the automatic updater. You don't need them.
-
 ### Windows
 
 1. Unzip `PinConsole-Setup-Windows.zip`. Unzip the **whole folder**, so `PinConsole.exe` is next to `Install.bat`.
