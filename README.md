@@ -1,20 +1,23 @@
 # PinConsole
 
-**A free, instant image & GIF search bar for Windows, macOS and Linux.**
+PinConsole is a free, instant image & GIF search bar for Windows, macOS and Linux.
 
-Press **Ctrl+Shift+R** (**Cmd+Shift+R** on a Mac) anywhere, type, and pick a result with its number. It's copied to your clipboard, or pasted (and sent) straight into your chat.
+the app can be used for various cases, it was mainly made as a helping tool for quick video editing and for chatting apps
 
-Search **Pinterest, Bing, Tenor GIFs, Wallhaven, Openverse** and **Google**.
+Press **Ctrl+Shift+R** anywhere, type, and pick a result with its number and it's copied to your clipboard, or pasted into your chat (and sent).
+
+Search Pinterest, Bing, Tenor GIFs, Wallhaven, Openverse and Google.
 
 **[⬇ Download the latest release](https://github.com/mosasomo/PinConsole/releases/latest)**
+  
+Supports Windows 10/11, macOS 12+ and Linux (x64 and arm64). Updates are free and install automatically.
 
-- Free, with an optional one-time **Pro** upgrade
-- No bloatware, no malware, **no telemetry or usage data**
-- Updates are free and install automatically
-- Supports Windows 10/11, macOS 12+ and Linux (x64 and arm64)
+(Linux and macOS builds are not as thoroughly tested. Expect some bugs, and please [report](https://github.com/mosasomo/PinConsole/issues) if you meet any.)
 
-> [!NOTE]
-> The macOS and Linux versions are newer and less tested than the Windows one. Expect some bugs, and please [report them](https://github.com/mosasomo/PinConsole/issues).
+PinConsole is free of bloatware and contains no malware. It does not collect any telemetry or usage data.
+
+
+### More guides below ⬇️
 
 ---
 
@@ -28,7 +31,7 @@ Search **Pinterest, Bing, Tenor GIFs, Wallhaven, Openverse** and **Google**.
 - [Services](#services)
 - [GIFs](#gifs)
 - [Copy, paste and send](#copy-paste-and-send)
-- [Free vs Pro](#free-vs-pro)
+- [Pro customizations](#pro-customizations)
 - [Uninstall](#uninstall)
 - [Notes](#notes)
 
@@ -154,17 +157,17 @@ The current mode is shown, dimmed, at the top right of the bar. Click it to open
 
 ---
 
-## Free vs Pro
+## Pro customizations
 
 **Everything above is free.** Pro is a one-time purchase in **Settings → Pro**, and works on up to 3 computers on any mix of Windows, macOS and Linux.
 
 Pro adds:
 
+- **Personalized Pinterest results** by linking your Pinterest account
 - **History** (Ctrl+Y) and **favorites** (Alt+1 … 0 or middle-click to star, Ctrl+B to show). Favorites keep a copy on your computer, so they work offline.
-- **Bigger grid**: 4–8 columns, 2–4 rows, small / normal / large tiles
+- **Customizable grid**: columns, rows, tile sizes
 - **15 themes** (Dracula, Nord, Catppuccin, Tokyo Night, Gruvbox, Rosé Pine…), your own custom theme, accent colors and fonts
 - **Several save folders** (Ctrl+J switches between them)
-- **Personalized Pinterest results** by linking your Pinterest account
 - **Saved searches**, shape and size **filters**, **custom shortcuts** and a supporter badge
 
 ---
