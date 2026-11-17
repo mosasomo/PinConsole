@@ -4,6 +4,8 @@ PinConsole is a free, instant image & GIF search bar for Windows, macOS and Linu
 
 Press **Ctrl+Shift+R** anywhere, type, and pick a result with its number and it's copied to your clipboard, or pasted into your chat (and sent).
 
+Search Pinterest, Bing, Tenor GIFs, Wallhaven, Openverse and Google.
+
 ### How is this better than discord's gif search?
 
 - It's personalized, following your account's algorithm
@@ -19,7 +21,6 @@ Press **Ctrl+Shift+R** anywhere, type, and pick a result with its number and it'
 
 note: PinConsole is not meant to replace Discord’s GIF search. This section is only a simple comparison
 
-Search Pinterest, Bing, Tenor GIFs, Wallhaven, Openverse and Google.
 
 **[⬇ Download the latest release](https://github.com/mosasomo/PinConsole/releases/latest)**
   
