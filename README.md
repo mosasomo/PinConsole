@@ -5,7 +5,9 @@
 <h1 align="center">PinConsole</h1>
 
 https://github.com/user-attachments/assets/7c21e48d-1ad7-4950-9240-427cebbe687b
-
+<h3 align="center">
+  <a href="#more-images">For more images, click here</a>
+</h3>
 
 PinConsole is a free, instant image & GIF search bar for Windows, macOS and Linux.
 
@@ -216,7 +218,9 @@ Settings, history and favorites live in:
 - Pinterest, Bing and Tenor results come from their websites, not official APIs. If one of them changes its site, that service may stop showing results. Enter (open in browser) still works.
 - Questions, bugs or ideas: [open an issue](https://github.com/mosasomo/PinConsole/issues), or use **Contact me** in Settings.
 
-# More images
+---
+
+## More images
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d282867b-d748-4b2c-85f3-d742de35b27e" width="49%" style="vertical-align: top;">
   <img src="https://github.com/user-attachments/assets/49ad5474-2a53-4777-978b-67c7ab018af4" width="49%" style="vertical-align: top;">
