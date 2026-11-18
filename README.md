@@ -1,4 +1,14 @@
-# PinConsole
+<p align="center">
+  <img src="assets/logo.png" alt="PinConsole logo" width="160">
+</p>
+
+<h1 align="center">PinConsole</h1>
+
+<p align="center">
+  <a href="assets/pinconsole-ad.mp4"><img src="assets/ad-thumbnail.jpg" alt="Watch the PinConsole ad" width="640"></a>
+  <br>
+  <a href="assets/pinconsole-ad.mp4">▶ Watch the 20-second ad</a>
+</p>
 
 PinConsole is a free, instant image & GIF search bar for Windows, macOS and Linux.
 
