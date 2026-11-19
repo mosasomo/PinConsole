@@ -218,6 +218,13 @@ Settings, history and favorites live in:
 - Pinterest, Bing and Tenor results come from their websites, not official APIs. If one of them changes its site, that service may stop showing results. Enter (open in browser) still works.
 - Questions, bugs or ideas: [open an issue](https://github.com/mosasomo/PinConsole/issues), or use **Contact me** in Settings.
 
+
+## Is this AI slop?
+
+Since the line between AI slop and organic content isn’t clear-cut, here’s my definition: AI slop is content that is generated, coded, and published by AI, usually mass-produced from a single prompt.
+
+This app doesn’t fit that description. I started it as a simple Pinterest shortcut and gradually added features, each one entirely thought out by me. It took 40 hours of implementation before I decided to release it publicly. I did use an AI assistant for coding, since I find typing code by hand inefficient these days, but every decision in the app was mine, and none of its content or design was AI-generated.
+
 ---
 
 ## More images
